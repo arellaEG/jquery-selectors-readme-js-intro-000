@@ -1,19 +1,19 @@
 function paragraphSelector(){
-  return $('p')
+  return $('p');
 }
 
 function lastImageSelector(){
-  return $('img:last')
+  return $('img:last');
 }
 
 function ninjaBabySelector(){
-  return ('#baby-ninja')
+  return $('#baby-ninja')
 }
 
 function divSelector(){
-  return $('.pics')
+  return $('.pics');
 }
 
 function firstListItem(){
-  return $('ul#pic-list li:first-child'.img'');
+  return $('ul#pic-list li:first-child');
 }
